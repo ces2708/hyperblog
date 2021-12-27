@@ -21,3 +21,9 @@ p {
 #cabecera{
     color: aqua;
 }
+
+#footer{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blue;
+}
